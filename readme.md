@@ -50,4 +50,4 @@ The method returns `true` if the URL matches the pattern, otherwise it returns `
 To run the tests, use the following command:
 
 ```sh
-npm test
+npx jest
